@@ -1,0 +1,25 @@
+3 Moonstone.png
+4 rose_quartz.jpg
+Rose Quartz
+Hi there.
+Moonstone
+Huh?
+Rose Quartz
+Sorry to catch you offguard, but I just had the sudden impulse to talk to you.
+Moonstone
+Why me? I'm just a nameless priestess for the Moon Goddess.
+Moonstone
+I'm invisible.
+Rose Quartz
+Is that how Homeworld has made you feel? Invisible?
+Moonstone
+I--
+Rose Quartz
+This might sound crazy, but maybe it's time you fought for someone who valued you as more than just a nameless priestess.
+Moonstone
+You know... I think you may be right. I'll do it! I'll join you-- er-- if you'll have me.
+Rose Quartz
+I would love to have you onboard, Moonstone!
+9 join
+-
+Moonstone joined your party!

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6720791884169375133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6318184063200733743}
+  - component: {fileID: 6722152736745926397}
+  m_Layer: 0
+  m_Name: PreBattleMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6318184063200733743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6720791884169375133}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 400.85992, y: 166.23192, z: -5.8854775}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6722152736745926397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6720791884169375133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e3613c2fd552447b5e6556f4995042, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraOrthographicSize: 6
+  player: 
+  enemy: []
+  ally: []
+  other: []
+  cursor: {fileID: 8253305384362114491, guid: a50d57e7623722248a1a4b5855c96168, type: 3}
+  cam: {fileID: 0}
+  cursorX: 0
+  cursorY: 0
+  pickerBackground: {fileID: 5774638706299643132, guid: 2456fdd4ce196c84483b077af6de2f16, type: 3}
+  pickCursorX: 0
+  pickCursorY: 0
+  pickerWidth: 0
+  pickerHeight: 0
+  deployerPanel: {fileID: 4728503404847913490, guid: 2d8db239a99dc154e8b9da8b4a3d6c7c, type: 3}
+  pickerCellSizeX: 23
+  pickerCellSizeY: 9
+  selectionMode: 0
+  selectedTile: {fileID: 0}
+  selectedUnit: {fileID: 0}
+  statsPageBackground: {fileID: 9191308844959369571, guid: 3395e841a801fb141bb0bbeefd10013b, type: 3}
+  mapHUD: {fileID: 5962436943672816945, guid: 0e5508bb73190854bab7094f2683b18b, type: 3}
+  mainMenu: {fileID: 160983768645262739, guid: 7a8140f2ebb6d144d8cf51cc77337131, type: 3}
+  saveScreen: {fileID: 6956297852563667020, guid: 81f45ada8172f5444a91801cdf15310c, type: 3}
+  itemsMenu: {fileID: 4278899159938458422, guid: a5ba5fb3fafb7fb4488ce6557251e5e3, type: 3}
+  scrollListMember: {fileID: 4688178612655975191, guid: ba02464908a917146823f7a0e228f089, type: 3}

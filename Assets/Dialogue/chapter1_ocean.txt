@@ -1,0 +1,14 @@
+5 ocean.png
+Ocean
+What's that? You want me to join you?
+Ocean
+To turn my back on everything we've built here and betray the Diamonds?
+Ocean
+All for the sake of one planet? You're insane.
+Ocean
+I kinda admire that.
+Ocean
+Alright, I'll join you! Let's do this!
+9 join
+-
+Ocean joined your party!

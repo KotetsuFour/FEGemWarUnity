@@ -1,0 +1,38 @@
+3 bismuth.png
+4 rose_quartz.jpg
+Bismuth
+Ah! I'm just a builder! Don't hurt me!
+Rose Quartz
+I won't hurt you!
+Bismuth
+Oh, thanks.
+Bismuth
+Uh... I hope you don't mind, but I'm supposed to finish building this part of the arena.
+Rose Quartz
+Is that what you want to do? Build?
+Bismuth
+...Huh?
+Rose Quartz
+I mean if you had a choice, what would you want to do?
+Bismuth
+I... Well... there is this one thing that-- But I can't.
+Bismuth
+Look, I can't talk to you. You're gonna get me in a lot of trouble.
+Rose Quartz
+Sometimes, trouble is the only way to freedom. Think about it.
+Bismuth
+Wait! You're at a disadvantage with just that shield.
+Bismuth
+Here. You and your Pearl take these.
+9 giveall
+-
+Rose got an Iron Sword
+-
+Pearl got an Iron Sword
+Rose Quartz
+Thank you! These will be really helpful.
+Rose Quartz
+You'd better get out of here. I hope we'll see each other again.
+9 leave
+Bismuth
+Heh, yeah, maybe we will

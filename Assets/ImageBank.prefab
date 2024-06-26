@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2685663295967356364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2685663295967356362}
+  - component: {fileID: 2685663295967356363}
+  m_Layer: 0
+  m_Name: ImageBank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2685663295967356362
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685663295967356364}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 120.138794, y: 173.65637, z: 1.5761015}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2685663295967356363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685663295967356364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42eeb4e5ec921ca418934a1e1e5585ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keys:
+  - biggs.png
+  - bismuth.png
+  - blue_diamond.jpg
+  - diamond_authority.jpg
+  - diamonds_dont_understand.jpg
+  - diamonds_portraits.jpg
+  - earth.jpg
+  - garnet.png
+  - gem_colony.jpg
+  - moonbase.jpg
+  - ocean.png
+  - pearl.jpg
+  - pearl_servant.jpg
+  - pearl_silhouette.png
+  - pink_diamond.png
+  - pink_dons_rose.jpg
+  - pinkandpearl.jpg
+  - quartz.jpg
+  - rose_and_human.jpg
+  - rose_prime_kindergarten.jpg
+  - rose_quartz.jpg
+  - rose_remorse.jpg
+  - rosepearl_crystal_gems.jpg
+  - sky_arena.jpg
+  - sky_arena_2.jpg
+  - sunflowers.jpg
+  - yellow_diamond.png
+  - Biggs.jpg
+  - Bismuth.jpg
+  - Garnet.jpg
+  - Ocean.jpg
+  - Pearl.jpg
+  - Quartz.jpg
+  - Rose Quartz.jpg
+  - blackscreen.png
+  - ruby.png
+  - lunar_sea_spire.jpg
+  - lunar_sea_spire_entrance.jpg
+  - Noble.jpg
+  - Turquoise.jpg
+  - Moonstone.png
+  - Quartz_Silhouette.jpg
+  - Priestess.jpg
+  - crystal_gem_star.png
+  - open_chest.jpg
+  - checkmark.png
+  - blank_square
+  - the_answer_intro.jpg
+  - the_answer_background.jpg
+  - aventurine.png
+  - citrine.jpg
+  - nephrite.jpg
+  - Citrine_Silhouette.jpg
+  - Topaz_Silhouette.png
+  - chert.png
+  - flint.png
+  - Ruby_Silhouette.png
+  - cloud_arena.jpg
+  - first_fusion.jpg
+  - we_are_the_crystal_gems.png
+  - meeting_garnet.jpg
+  - talk_icon.jpg
+  - rose_talk_icon.jpg
+  images:
+  - {fileID: 21300000, guid: d6def4cc58e8bff45a4176512a421ff9, type: 3}
+  - {fileID: 21300000, guid: 91de170a5c0f1fe48979bbbc165c66d4, type: 3}
+  - {fileID: 21300000, guid: d0c8bcecca053b6469d9bc70ecb405c5, type: 3}
+  - {fileID: 21300000, guid: a2c8545287cc8f445b5090a2efa1369a, type: 3}
+  - {fileID: 21300000, guid: 54dcc79b00673c34b8ed180d1a739519, type: 3}
+  - {fileID: 21300000, guid: 866b4201411635b4f9e9e4e486a93774, type: 3}
+  - {fileID: 21300000, guid: c375ca8f2c98e774cb954bcee9b469d2, type: 3}
+  - {fileID: 21300000, guid: 7ff1f9f0d2eb52344ae8c8bf41a9fd8b, type: 3}
+  - {fileID: 21300000, guid: 4ab28af6ad60f144aa644dccf0e89443, type: 3}
+  - {fileID: 21300000, guid: 6c15216e6540798438b3bd589c906cf8, type: 3}
+  - {fileID: 21300000, guid: 91c44624df735cb4fbf84bc854ba4457, type: 3}
+  - {fileID: 21300000, guid: 7927c24e112bfec48bcba62f6efc6e04, type: 3}
+  - {fileID: 21300000, guid: 9c33beee645cc414f9882b0de4bfc2bc, type: 3}
+  - {fileID: 21300000, guid: d3d321c7faad0654d83de365deaefd6b, type: 3}
+  - {fileID: 21300000, guid: 93041c6a8a0553d419a197b4b1555949, type: 3}
+  - {fileID: 21300000, guid: 99bf22740a3839649b78552eb6ed2080, type: 3}
+  - {fileID: 21300000, guid: 632fc372f5787f54fbfc58900ed7f27c, type: 3}
+  - {fileID: 21300000, guid: 86c8ef5a9496ab84fa7b5a91e26be6ce, type: 3}
+  - {fileID: 21300000, guid: 674144ad8ab330a48a24ee6d6799187b, type: 3}
+  - {fileID: 21300000, guid: 0a1ee8f4f88288f46845141e9787b28a, type: 3}
+  - {fileID: 21300000, guid: f68faa4c95d44e24fb4df7f8384ca8fb, type: 3}
+  - {fileID: 21300000, guid: 9efcfe605b036a54a9092106e2325f71, type: 3}
+  - {fileID: 21300000, guid: efc90d79dc3213c4cb7d8cea76c2f5ce, type: 3}
+  - {fileID: 21300000, guid: 22f9b4e5a035d7f4e94e0d1dcf3d3aa0, type: 3}
+  - {fileID: 21300000, guid: 38104161e784e9f4aa474fb3dbd6112d, type: 3}
+  - {fileID: 21300000, guid: f490f28daef224e42b06028dbc2e713e, type: 3}
+  - {fileID: 21300000, guid: 253c0f1c1dbced8419a70bc407394904, type: 3}
+  - {fileID: 21300000, guid: 739954bbdb975f6408e53508db5b5189, type: 3}
+  - {fileID: 21300000, guid: e91bcbc9608f0e24f8e796b042f9e6d4, type: 3}
+  - {fileID: 21300000, guid: 74f5885c779f0b04da2109b07649c7c4, type: 3}
+  - {fileID: 21300000, guid: 8605bbffb96853149846b30f0e1b518f, type: 3}
+  - {fileID: 21300000, guid: 2bf5e4a84745aa94ab2d85f712347b41, type: 3}
+  - {fileID: 21300000, guid: 54da0b4bdb84ed549808fb901b2a7ef6, type: 3}
+  - {fileID: 21300000, guid: 5d21a8ff6d9c67d4da065d3015918b21, type: 3}
+  - {fileID: 21300000, guid: a22f9cfc0a5971b458f94764d7fe0cc5, type: 3}
+  - {fileID: 21300000, guid: a53c83300c853524585cbf551e102912, type: 3}
+  - {fileID: 21300000, guid: e9d1a2b99452ae44583ecf0d945b887a, type: 3}
+  - {fileID: 21300000, guid: 977697248523c8e4184af6f13cbb43eb, type: 3}
+  - {fileID: 21300000, guid: 7fba06c6a17c63748a376c363ae37a09, type: 3}
+  - {fileID: 21300000, guid: 143f995fbb8b16f4a90abd5c3c9b0b62, type: 3}
+  - {fileID: 21300000, guid: f06303e91be5dea4789b27252ee3ff68, type: 3}
+  - {fileID: 21300000, guid: 11a742339ffe7bd48aab64d8c59192d7, type: 3}
+  - {fileID: 21300000, guid: 3cfdea7dd405bb04196ef0e7341ad1a9, type: 3}
+  - {fileID: 21300000, guid: 841b039e559c2f844af5a5a4b615c7f2, type: 3}
+  - {fileID: 21300000, guid: aaed91ebfc8f48c44b12fcb7591b263b, type: 3}
+  - {fileID: 21300000, guid: a7c34c2852ab03a418d971b346ca5b29, type: 3}
+  - {fileID: 21300000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
+  - {fileID: 21300000, guid: b48c6973c127f2b4b8fbf049e45833e7, type: 3}
+  - {fileID: 21300000, guid: ca7c58f971cac0f4e9b90f7892195df8, type: 3}
+  - {fileID: 21300000, guid: a2dbc5f1a2d5db14ea6c126c23321942, type: 3}
+  - {fileID: 21300000, guid: 7f5f7222395f5a84084f574e8071c59b, type: 3}
+  - {fileID: 21300000, guid: cbe16c20e0fa6a44f8c729e95f2d60bb, type: 3}
+  - {fileID: 21300000, guid: fb1a7d95f0bc8a6448e72ad75a29f45b, type: 3}
+  - {fileID: 21300000, guid: 3e829ca05f4df434695da370a077aac2, type: 3}
+  - {fileID: 21300000, guid: 8d8e032371bb02d4299d1e8ff7133ea1, type: 3}
+  - {fileID: 21300000, guid: 2d14d66fe7352264894da8422f01efa1, type: 3}
+  - {fileID: 21300000, guid: f7455810d77c366459b0ebc82337f13f, type: 3}
+  - {fileID: 21300000, guid: d84f34986d4f5a94fb8b591d21e47bcc, type: 3}
+  - {fileID: 21300000, guid: d8c443c0b35d7b74b898f156a537759f, type: 3}
+  - {fileID: 21300000, guid: 878484bb037240e4cb73b0dfd0f3e9a0, type: 3}
+  - {fileID: 21300000, guid: 91a2740aa47fe1d4faa1b4a802a246d5, type: 3}
+  - {fileID: 21300000, guid: db37c9fa1372a7147a05f93234dd9f40, type: 3}
+  - {fileID: 21300000, guid: e992c125072eb1b4eb57322992263044, type: 3}

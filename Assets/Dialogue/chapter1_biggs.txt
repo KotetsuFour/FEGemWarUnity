@@ -1,0 +1,27 @@
+3 biggs.png
+4 rose_quartz.jpg
+Biggs
+Hey you!
+Rose Quartz
+Hm?
+Biggs
+I heard your speech. Are you really going to stop the colony?
+Biggs
+All for the earthling organics?
+Rose Quartz
+I'll do what I have to. I can't let them die.
+Biggs
+You must have a lot of conviction. I want to join you!
+Rose Quartz
+Really?
+Biggs
+Yeah! I'm only building the colony because I was ordered to.
+Biggs
+But you actually believe in what you're doing. It's inspiring!
+Biggs
+So from now on, you have my whip!
+Biggs
+Oh, and if you wouldn't mind, talk to my pal Ocean too. I'm sure she'll join you.
+9 join
+-
+Biggs joined your party!

@@ -1,0 +1,83 @@
+0 the_answer_intro.jpg
+-
+-
+3 pearl.jpg
+4 rose_quartz.jpg
+Pearl
+Blue Diamond's cloud arena is just ahead. This is our chance!
+Rose Quartz
+*sigh* What are we doing, Pearl?
+Pearl
+We're attacking Blue Diamond at her palanquin to show her that Earth is not a viable colony. Would you like me to go over the plan again?
+Rose Quartz
+No, I mean what's the point? She's not going to listen. This isn't going to convince her.
+Rose Quartz
+Why are we still fighting when we both know it's not going to save the Earth?
+Rose Quartz
+...Is Earth even really worth saving?
+Pearl
+...
+2 rose_quartz.jpg
+4 bismuth.png
+Bismuth
+Hey, Rose! Look who I just found!
+1 citrine.jpg
+3 aventurine.png
+Citrine
+It's her! It's actually her!
+Aventurine
+I can't believe it! Can you believe it?
+Citrine
+I can't believe it. It's amazing!
+Rose Quartz
+Umm hi. Are you new recruits?
+Citrine
+We might be some other day.
+Aventurine
+Today, we have other duties to attend to, to help you out.
+Citrine
+We're part of another rebellion effort, see?
+Aventurine
+The Refraction Stones
+Citrine
+It just so happens that today, we'll be helping you get up to Blue Diamond's cloud arena.
+Rose Quartz
+You run your own rebellion effort?
+Aventurine
+Well, we don't run it. Nephrite's the boss.
+1 nephrite.jpg
+Nephrite
+That I am! *cough* *cough*
+Nephrite
+Nephrite, Facet XJ - Cut 763. I'm originally from Yellow Diamond's navy *cough*
+Rose Quartz
+Your Gem! It's cracked!
+Nephrite
+Just a scratch. It's no big - RN UILN QFMTOV NLLM.
+Rose Quartz
+Oh no. I'm so sorry. This is all my fault.
+Nephrite
+*cough* What do you mean?
+Rose Quartz
+If I had never started this stupid rebellion, you wouldn't have gotten hurt *sniff* *sob*
+Rose Quartz
+*crying* I'm so sorry!
+Nephrite
+Wha-- My Gem! It's healed!
+Bismuth
+You have healing tears?!
+Rose Quartz
+I have healing tears?
+Nephrite
+Citrine, Aventurine, go ahead and start clearing the way. Chert and Flint are waiting.
+Nephrite
+Rose, I think I'll join your party out of gratitude for healing me.
+3 pearl.jpg
+Pearl
+Are you going to be okay, Rose?
+Rose Quartz
+I... Sure. Let's get this over with.
+-
+Nephrite got a Rose's Tear!
+-
+More Rose's Tears were sent to the convoy!

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d9877d922dd87a41a413d8ee0ad34c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cursor: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - menuBackground: {fileID: 8774866429383992393, guid: 537bf6e96009598429d93b22ef887142, type: 3}
+  - menuOption: {instanceID: 0}
+  - selectedTile: {instanceID: 0}
+  - selectedUnit: {instanceID: 0}
+  - moveDest: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

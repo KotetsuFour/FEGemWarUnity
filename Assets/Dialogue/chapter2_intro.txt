@@ -1,0 +1,48 @@
+0 lunar_sea_spire_entrance.jpg
+-
+-
+4 rose_quartz.jpg
+1 pearl.jpg
+3 bismuth.png
+Rose Quartz
+This is perfect! Once we capture the Lunar Sea Spire, Blue and Yellow will have to leave the Earth alone.
+Bismuth
+And Pink Diamond, right? This is her colony.
+Rose Quartz
+Right! Obviously.
+Rose Quartz
+But how are we going to approach? If we just come in the main entrance, we'll be seen from a mile away.
+Pearl
+Wait a minute...
+2 rose_quartz.jpg
+1 clear
+4 pearl.jpg
+Pearl
+Halt! Who goes there?!
+---
+Whoa!
+1 rose_quartz.jpg
+2 pearl.jpg
+4 ruby.png
+Rose Quartz
+A Ruby? What are you doing here?
+Ruby
+I was just guarding the private entrance-- Wait, that's classified! If you ask me, I should be the one asking you what you're doing here.
+Ruby
+And it seems like what your doing here is being up to no good!
+Ruby
+I just caught you red-handed! Ha!
+Bismuth
+You know you're outnumbered, right? And we're the ones who just caught you.
+Ruby
+...
+Ruby
+Dang it! How am I supposed to explain to my Turquiose that I got captured?! This is humiliating!
+Rose Quartz
+You know, if you were to help us get in the private entrance and capture the spire, I suppose we could let you go.
+Rose Quartz
+Your Turquoise wouldn't even have to know.
+Ruby
+Hm... I guess I have no choice. Okay, I'll do it.
+Ruby
+But if you see my Turquoise in there, tell her I had nothing to do with this.

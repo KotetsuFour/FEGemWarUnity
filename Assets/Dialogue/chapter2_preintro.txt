@@ -1,0 +1,90 @@
+0 blackscreen.png
+-
+The Crystal Gems, led by Rose Quartz, began sabotaging the colonial effort.
+-
+With this, Pink Diamond had the perfect excuse to end the colony. Or so she thought.
+0 moonbase.jpg
+3 pink_diamond.png
+2 yellow_diamond.png
+4 blue_diamond.jpg
+-
+-
+Pink Diamond
+Rose Quartz has become a significant threat. She has turned several of my Gems against me.
+Yellow Diamond
+Well I think the solution is simple.
+Pink Diamond
+We should stop the colony!
+Yellow Diamond
+I was going to say you ought to bubble all of your Rose Quartzes.
+Yellow Diamond
+They are a new model of quartz. For all we know, they could all be just as defective as this one.
+Pink Diamond
+But that isn't enough!
+Yellow Diamond
+Capturing the other Rose Quartzes will work as a scare tactic.
+Yellow Diamond
+And if not, it should be easy enough still to hunt down these few traitors.
+Pink Diamond
+You don't understand! They've organized into a rebellion! They're calling themselves the Crystal Gems!
+Yellow Diamond
+Ugh. Blue, you handle this.
+2 blue_diamond.jpg
+4 yellow_diamond.png
+Pink Diamond
+I don't understand why you won't just let me leave the Earth alone!
+Blue Diamond
+"Leave the Earth alone"? Is that what you're asking of us?
+Pink Diamond
+It's just--
+Blue Diamond
+But this is what you wanted.
+Blue Diamond
+You begged us for a colony of your own. And now all you want to do is be rid of it!
+Blue Diamond
+First, there were too many organics, then their cities were too difficult to dismantle.
+Blue Diamond
+And now these "Crystal Gems"? We're tired of your excuses, Pink!
+Pink Diamond
+...
+Blue Diamond
+This Rose Quartz can't hurt you. You can't be swayed by a few unruly Gems.
+Pink Diamond
+---
+Blue Diamond
+Enough!
+Blue Diamond
+You must understand. You are a Diamond. Everyone on this planet is looking to you.
+Blue Diamond
+You don't even have to do anything. Just smile and wave.
+Blue Diamond
+Show everyone you are unfazed by this little uprising.
+Blue Diamond
+Your Gems will fall into line, and these Crystal Gems will be no more.
+Blue Diamond
+As long as you are there to rule, this colony will be completed.
+2 clear
+4 clear
+-
+-
+1 pink_diamond.png
+3 pearl_silhouette.png
+-
+-
+1 clear
+4 pink_diamond.png
+Pink Diamond
+Pearl? What are you doing with that sword?
+3 pearl_servant.jpg
+Pearl
+Bringing it to you, my Diamond! It's a new sword that Bismuth made especially for you.
+Pearl
+She says it's not balanced entirely correctly and that she'll make another one to replace it.
+Pink Diamond
+That's not how you give someone a sword. I thought you were about to shatter me.
+Pearl
+Oh! I'm terribly sorry!
+Pink Diamond
+They didn't listen, Pearl. As usual. Looks like the war will go on.
+Pink Diamond
+Thanks for bringing me the sword. Let's go find somewhere to use it.

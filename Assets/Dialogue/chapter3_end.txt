@@ -1,0 +1,70 @@
+0 the_answer_intro.jpg
+2 rose_quartz.jpg
+4 pearl.jpg
+3 bismuth.png
+8 Nephrite
+1 bismuth.png
+3 nephrite.jpg
+7 Done
+Bismuth
+The way is clear. It's all you two now. We'll stay down here and prevent them from gathering reinforcements.
+8 Nephrite
+Nephrite
+Don't worry about us. We'll follow you whole or in pieces!
+Rose Quartz
+Well, try not to end up in pieces....
+7 Done
+Rose Quartz
+Thank you all. Pearl, come on. Let's finish this.
+1 clear
+2 clear
+3 clear
+4 clear
+0 cloud_arena.jpg
+-
+-
+Rose Quartz
+Blue Diamond, leave this planet! This colony will not be completed!
+Guard
+It's the rebels!
+Guard
+Who are you?! Show yourselves!
+0 we_are_the_crystal_gems.png
+Rose+Pearl
+We are the Crystal Gems!
+0 blackscreen.png
+Rose Quartz
+But what did that really mean? I wasn't sure...
+0 first_fusion.jpg
+Rose Quartz
+...until I saw her.
+-
+-
+Rose Quartz
+How have I never heard of this? I've only ever heard that it's unheard of.
+Pearl
+I imagined that I ran away and met you here on Earth...
+8 Moonstone
+Rose Quartz
+Is that how Homeworld has made you feel? Invisible?
+Moonstone
+I--
+7 Done
+Bismuth
+The Diamonds don’t have use for a Bismuth who makes weapons.
+0 meeting_garnet.jpg
+Fusion
+C-Can you tell me? How was Ruby able to alter fate?
+Fusion
+Why was Sapphire willing to give up everything?
+Fusion
+W-What am I?!
+Rose Quartz
+No more questions. Don't ever question this. You already are the answer.
+0 blackscreen.png
+Rose Quartz
+And she was my answer too. I knew why I was fighting. Why the Earth was worth fighting for.
+Rose Quartz
+It was the only place where Gems could be free to do and be extraordinary things.
+Rose Quartz
+And I was prepared to risk everything for it.
